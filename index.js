@@ -2,9 +2,9 @@
  * Module dependencies.
  */
 
-var Tip = require('tip')
-  , q = require('query')
-  , inherit = require('inherit');
+var Tip = require('component-tip')
+  , q = require('component-query')
+  , inherit = require('component-inherit');
 
 /**
  * Expose `Popover`.
